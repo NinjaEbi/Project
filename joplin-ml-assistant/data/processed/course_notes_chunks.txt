@@ -1,0 +1,5 @@
+Python Basics
+Python is a popular programming language used for web development, data science, and automation.
+It supports object-oriented programming, functional programming, and scripting.
+Popular libraries include NumPy, Pandas, and Matplotlib.
+DONE by niranjan
