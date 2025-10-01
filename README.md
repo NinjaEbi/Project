@@ -21,7 +21,7 @@ This project integrates **Mistral-7B (GGUF via llama.cpp)** with embeddings and 
 Some files (models, datasets, or demo videos) are too large for GitHub.  
 You can access them here:  
 
-Model File (Google Drive)  :
+Model File (Google Drive)  :  https://drive.google.com/drive/folders/10j-xtDvSdV-sc7ah2ugBBnHlV_aA6Y_P?usp=sharing
 
 ---
 Installation  
